@@ -7,7 +7,6 @@ Además de conmutar por MAC, puede enrutar usando la dirección IP del paquete y
 **Capa 2 frente a capa 3**
 
 -Capa 2: lee la MAC, trabaja en una sola red, necesita un router para comunicar redes distintas y cuesta menos.
-
 -Capa 3: lee MAC e IP, conecta varias redes o VLAN, enruta por sí mismo 
 
 **¿Remplaza a un router?**
